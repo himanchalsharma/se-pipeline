@@ -44,3 +44,24 @@ This tab shows the past week expense distribution relative with every work day, 
 Custom week: You can single out a particular week to see all the expenses from
 
 View all transactions: Click on this to see all transactions that are recorded in the app and haven't been deleted
+
+New Transaction: Click on the plus icon to add a new transaction. Add respective menu and the title for the transaction and click Ok
+
+![alt text](https://i.imgur.com/HjFFrJs.png)
+
+Edit: To edit a transaction click on the Pencil icon and make respective new entries
+
+Delete: To Delete a transaction click on the red delete button
+
+Diary:
+
+![alt text](https://i.imgur.com/bpfE6Me.png)
+
+Click on the diary button to navigate to all the diary entries
+All entries that have been made for the week are shown here.
+
+Add a new entry: In order to add a new entry click on the Plus button in the bottom bar and add the respective heading and text of the entry, click on the calendar button in the bottom bar to set the date of the entry(by defauly it takes present date) and click on the clock to chose the entry time(default:present)
+
+Edit and Delete: Click on the Green pencil icon in front of each entry in order to edit it and click on the red delete icon to Delete it
+
+View All Entries: Click on this to see all the diary entries made for the account
