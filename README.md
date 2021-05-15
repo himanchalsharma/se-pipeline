@@ -62,6 +62,8 @@ All entries that have been made for the week are shown here.
 
 Add a new entry: In order to add a new entry click on the Plus button in the bottom bar and add the respective heading and text of the entry, click on the calendar button in the bottom bar to set the date of the entry(by defauly it takes present date) and click on the clock to chose the entry time(default:present)
 
+![alt text](https://i.imgur.com/qRYxVIB.png)
+
 Edit and Delete: Click on the Green pencil icon in front of each entry in order to edit it and click on the red delete icon to Delete it
 
 View All Entries: Click on this to see all the diary entries made for the account
