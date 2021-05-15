@@ -1,16 +1,23 @@
-# daily_schedule_manager
+##daily_schedule_manager
 
-A new Flutter project.
+In an effort to maximize simplicity and ease of use as well as provide maximum efficiency, we have made a three in one flutter application that includes Diary, Expense Manager and Reminders.
 
 ## Getting Started
+ On the first screen you are required to login so we can securely store all your data on the cloud and you can see your diary and expense entries even on another device
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://i.imgur.com/iXpMFnf.png)
+ 
+ Home Screen
+ After Login you will be taken to the home screen where you can see the three features of the app. Clicking on any should take you to the respective feature.
+ 
+ ![alt text](https://i.imgur.com/h73adV9.png)
+ 
+ Menu
+ Clicking on the three lines at top left will open the menu drawer which helps you navigate the app and logout of a respective account
+ 
+ ![alt text](https://i.imgur.com/TwSCtPH.png)
+ 
+ Reminders
+ On selecting reminders you'll be taken to the reminders homepage which is divided into two sections. "Current week" tab will show you all the reminders scheduled for the upcoming week and "All reminders" tab will show you all the reminders you've set uptill now.
+ 
+ ![alt text](https://i.imgur.com/XidMsqk.png)
